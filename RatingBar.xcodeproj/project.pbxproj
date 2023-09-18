@@ -11,6 +11,7 @@
 		A334D6312AB82A5C00889A17 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A334D6302AB82A5C00889A17 /* ContentView.swift */; };
 		A334D6332AB82A5D00889A17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A334D6322AB82A5D00889A17 /* Assets.xcassets */; };
 		A334D6362AB82A5D00889A17 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A334D6352AB82A5D00889A17 /* Preview Assets.xcassets */; };
+		A334D63F2AB82BD900889A17 /* RatingBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A334D63E2AB82BD900889A17 /* RatingBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A334D6302AB82A5C00889A17 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A334D6322AB82A5D00889A17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A334D6352AB82A5D00889A17 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A334D63E2AB82BD900889A17 /* RatingBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A334D62E2AB82A5C00889A17 /* RatingBarApp.swift */,
 				A334D6302AB82A5C00889A17 /* ContentView.swift */,
+				A334D63E2AB82BD900889A17 /* RatingBar.swift */,
 				A334D6322AB82A5D00889A17 /* Assets.xcassets */,
 				A334D6342AB82A5D00889A17 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A334D63F2AB82BD900889A17 /* RatingBar.swift in Sources */,
 				A334D6312AB82A5C00889A17 /* ContentView.swift in Sources */,
 				A334D62F2AB82A5C00889A17 /* RatingBarApp.swift in Sources */,
 			);

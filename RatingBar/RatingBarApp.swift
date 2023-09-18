@@ -2,7 +2,7 @@
 //  RatingBarApp.swift
 //  RatingBar
 //
-//  Created by BELDIN Yaroslav on 18.09.2023.
+//  Created by Iaroslav Beldin on 18.09.2023.
 //
 
 import SwiftUI
@@ -11,7 +11,9 @@ import SwiftUI
 struct RatingBarApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                ContentView()
+            }
         }
     }
 }
